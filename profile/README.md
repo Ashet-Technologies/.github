@@ -2,7 +2,7 @@
 
 Welcome to Ashet Technologies' GitHub profile, where innovation meets the future. As a leader in cutting-edge technology, Ashet Technologies specializes in developing a comprehensive range of products that empower individuals and businesses worldwide. Our portfolio includes advanced computers, intuitive operating systems, dynamic applications, and versatile handheld devices, all designed to drive productivity and enhance user experiences.
 
-![A nonsensical cyberpunk cityscape which has nothing to do with the actual topic](profile/cityscape.webp)
+![A nonsensical cyberpunk cityscape which has nothing to do with the actual topic](cityscape.webp)
 
 ## Who We Are
 At Ashet Technologies, we believe in pushing the boundaries of what's possible. Our team of dedicated engineers, designers, and innovators work tirelessly to create solutions that are not only functional but also futuristic. With a foundation built on excellence and a vision for the future, we are committed to delivering high-performance technology that meets the evolving needs of our clients.
@@ -12,7 +12,7 @@ Our mission is to harness the power of technology to transform lives and industr
 
 ## Our Vision
 
-![A nonsensical holographic interface that totally makes sense, according to the AI that generated it. Guess so.](profile/holo-ui.webp)
+![A nonsensical holographic interface that totally makes sense, according to the AI that generated it. Guess so.](holo-ui.webp)
 
 We envision a world where technology seamlessly integrates into every aspect of life, enhancing capabilities and expanding possibilities. At Ashet Technologies, we are driven by the promise of a smarter, more connected future, where our products are at the heart of progress and innovation.
 
